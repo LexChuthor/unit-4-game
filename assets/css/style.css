@@ -1,0 +1,7 @@
+.crystal-Button{
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    margin-right: 5px;
+    border-color: orange;
+}
